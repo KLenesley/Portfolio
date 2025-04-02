@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-FR'
+title = 'Portfolio de Kylian'
+theme = 'github-style'
