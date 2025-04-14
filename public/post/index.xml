@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Portfolio de Kylian</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Fri, 22 Nov 2024 18:46:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 15:28:12 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiences</title>
+      <link>http://localhost:1313/post/experiences/</link>
+      <pubDate>Fri, 11 Apr 2025 15:28:12 +0200</pubDate>
+      <guid>http://localhost:1313/post/experiences/</guid>
+      <description>&lt;p&gt;Mes expériences professionnelles&lt;/p&gt;</description>
+    </item>
     <item>
       <title>title</title>
       <link>http://localhost:1313/post/test/</link>

@@ -1,5 +1,8 @@
-+++
-date = '2025-04-11T15:30:05+02:00'
-draft = true
-title = 'Formations'
-+++
+---
+title: "Formations"
+date: 2025-04-11T15:30:05+02:00
+draft: true
+---
+abstraction show in the post page
+<!--more-->
+other content
