@@ -1,6 +1,6 @@
 ---
 title: "Formations"
-date: 2025-04-11T15:30:05+02:00
+date: 2025-04-15T15:30:05+02:00
 draft: false
 tags: ["Formations"]
 ---

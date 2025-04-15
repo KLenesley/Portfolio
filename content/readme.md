@@ -3,7 +3,7 @@
 Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option SLAM et je suis passionné par l'informatique et les nouvelles technologies. Voici un aperçu de mes expériences, compétences et projets.
 
 
-## Expériences - [En savoir plus](#)
+## Expériences - [En savoir plus](post/experiences)
 
 ### **Agent d'accueil / d'entretien - Aquabaie, Avranches**
 
@@ -14,14 +14,14 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 ### Stagiaire Informatique - IoBuro, Coutances
 
 
-## Formations
+## Formations - [En savoir plus](post/formations)
 
 ### **BTS SIO option SLAM**
 
 ### Baccalauréat professionnel SN option RISC
 
 
-## Compétences
+## Compétences - [En savoir plus](post/competences)
 
 ### Langages de Programmation, Moteur de Templates, Outils & Logiciels
 - HTML
@@ -62,7 +62,7 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 - GPO
 
 
-## Diplômes & Certifications
+## Diplômes & Certifications - [En savoir plus](post/diplomes_certifs)
 
 - Baccalauréat professionnel avec mention
 - Certification MOOC de l'anssi
@@ -72,7 +72,7 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 - Badge Introduction to Generative AI
 
 
-## Projets
+## Projets - [En savoir plus](post/projets)
 
 ### SIOTradeLink
 
@@ -81,7 +81,7 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 ### SkyFallJS
 
 
-## CV
+## CV - [En savoir plus](post/cv)
 
 - [Voir mon CV](#)
 - [Lien téléchargement](#)

@@ -2,47 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/formations/</loc>
+    <lastmod>2025-04-15T15:30:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/formations/</loc>
+    <lastmod>2025-04-15T15:30:05+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-11T15:31:35+02:00</lastmod>
+    <lastmod>2025-04-15T15:30:05+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-04-15T15:30:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-15T15:30:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/competences/</loc>
+    <lastmod>2025-04-15T15:29:04+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/comp%C3%A9tences/</loc>
+    <lastmod>2025-04-15T15:29:04+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/experiences/</loc>
+    <lastmod>2025-04-15T15:28:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/exp%C3%A9riences/</loc>
+    <lastmod>2025-04-15T15:28:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/cv/</loc>
+    <lastmod>2025-04-11T15:31:35+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cv/</loc>
     <lastmod>2025-04-11T15:31:35+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/projets/</loc>
-    <lastmod>2025-04-11T15:31:08+02:00</lastmod>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/projets/</loc>
-    <lastmod>2025-04-11T15:31:08+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-11T15:31:08+02:00</lastmod>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/dipl%C3%B4mes-et-certifications/</loc>
-    <lastmod>2025-04-11T15:30:54+02:00</lastmod>
+    <lastmod>2025-02-07T15:30:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/diplomes_certifs/</loc>
-    <lastmod>2025-04-11T15:30:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/formations/</loc>
-    <lastmod>2025-04-11T15:30:05+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/formations/</loc>
-    <lastmod>2025-04-11T15:30:05+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/competences/</loc>
-    <lastmod>2025-04-11T15:29:04+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/comp%C3%A9tences/</loc>
-    <lastmod>2025-04-11T15:29:04+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/experiences/</loc>
-    <lastmod>2025-04-11T15:28:12+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/exp%C3%A9riences/</loc>
-    <lastmod>2025-04-11T15:28:12+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/test/</loc>
-    <lastmod>2024-11-22T18:46:47+08:00</lastmod>
+    <lastmod>2025-02-07T15:30:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/readme/</loc>
   </url><url>

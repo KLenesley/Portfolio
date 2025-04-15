@@ -1,6 +1,6 @@
 ---
 title: "Diplomes_certifs"
-date: 2025-04-11T15:30:54+02:00
+date: 2025-02-07T15:30:54+02:00
 draft: false
 tags: ["Diplômes et Certifications"]
 ---
