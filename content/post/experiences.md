@@ -2,6 +2,7 @@
 title: "Experiences"
 date: 2025-04-11T15:28:12+02:00
 draft: false
+tags: ["Expériences"]
 ---
 Mes expériences professionnelles
 <!--more-->
@@ -34,4 +35,4 @@ Mes expériences professionnelles
   - Vente de matériel informatique divers, en fournissant des explications détaillées sur les produits et leurs utilisations.
   - Réparation d'ordinateurs portables et fixes, en effectuant des diagnostics précis et des réparations efficaces.
   - Impression et mise en service d'imprimantes professionnelles, en assurant leur bon fonctionnement et en formant les utilisateurs à leur utilisation.
-  - Maintenance de postes informatiques, en veillant à la mise à jour des systèmes et à la résolution des problèmes techniques pour garantir une utilisation optimale.
+  - Maintenance de postes informatiques, en veillant à la mise à jour des systèmes et à la résolution des problèmes techniques pour garantir une utilisation optimale.x

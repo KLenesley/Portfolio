@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dormation on Portfolio de Kylian</title>
+    <link>http://localhost:1313/tags/dormation/</link>
+    <description>Recent content in Dormation on Portfolio de Kylian</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 11 Apr 2025 15:30:05 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dormation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formations</title>
+      <link>http://localhost:1313/post/formations/</link>
+      <pubDate>Fri, 11 Apr 2025 15:30:05 +0200</pubDate>
+      <guid>http://localhost:1313/post/formations/</guid>
+      <description>&lt;p&gt;Mes formations académiques&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
