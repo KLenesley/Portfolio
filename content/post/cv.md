@@ -7,7 +7,7 @@ tags: ["CV"]
 Mon CV
 <!--more-->
 ## CV
-[Lien de téléchargement de mon cv](public\files\CV_Kylian_Lenesley.pdf)
+[Lien de téléchargement de mon cv](/public/files/CV_Kylian_Lenesley.pdf)
 
 # Version Textuelle
 

@@ -83,5 +83,4 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 
 ## CV - [En savoir plus](post/cv)
 
-- [Voir mon CV](#)
-- [Lien téléchargement](#)
+- [Lien téléchargement](/public/files/CV_Kylian_Lenesley.pdf)
