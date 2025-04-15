@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Portfolio de Kylian</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://example.org/post/</link>
     <description>Recent content in Posts on Portfolio de Kylian</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 15 Apr 2025 15:30:05 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formations</title>
-      <link>http://localhost:1313/post/formations/</link>
+      <link>https://example.org/post/formations/</link>
       <pubDate>Tue, 15 Apr 2025 15:30:05 +0200</pubDate>
-      <guid>http://localhost:1313/post/formations/</guid>
+      <guid>https://example.org/post/formations/</guid>
       <description>&lt;p&gt;Mes formations académiques&lt;/p&gt;</description>
     </item>
     <item>
       <title>Competences</title>
-      <link>http://localhost:1313/post/competences/</link>
+      <link>https://example.org/post/competences/</link>
       <pubDate>Tue, 15 Apr 2025 15:29:04 +0200</pubDate>
-      <guid>http://localhost:1313/post/competences/</guid>
+      <guid>https://example.org/post/competences/</guid>
       <description>&lt;p&gt;Mes compétences maîtrisées et en cours d&amp;rsquo;apprentissage&lt;/p&gt;</description>
     </item>
     <item>
       <title>Experiences</title>
-      <link>http://localhost:1313/post/experiences/</link>
+      <link>https://example.org/post/experiences/</link>
       <pubDate>Tue, 15 Apr 2025 15:28:12 +0200</pubDate>
-      <guid>http://localhost:1313/post/experiences/</guid>
+      <guid>https://example.org/post/experiences/</guid>
       <description>&lt;p&gt;Mes expériences professionnelles&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/post/cv/</link>
+      <link>https://example.org/post/cv/</link>
       <pubDate>Fri, 11 Apr 2025 15:31:35 +0200</pubDate>
-      <guid>http://localhost:1313/post/cv/</guid>
+      <guid>https://example.org/post/cv/</guid>
       <description>&lt;p&gt;Mon CV&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projets</title>
-      <link>http://localhost:1313/post/projets/</link>
+      <link>https://example.org/post/projets/</link>
       <pubDate>Sat, 15 Mar 2025 15:28:12 +0200</pubDate>
-      <guid>http://localhost:1313/post/projets/</guid>
+      <guid>https://example.org/post/projets/</guid>
       <description>&lt;p&gt;Mes projets personnels, scolaires, et professionnels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diplomes_certifs</title>
-      <link>http://localhost:1313/post/diplomes_certifs/</link>
+      <link>https://example.org/post/diplomes_certifs/</link>
       <pubDate>Fri, 07 Feb 2025 15:30:54 +0200</pubDate>
-      <guid>http://localhost:1313/post/diplomes_certifs/</guid>
+      <guid>https://example.org/post/diplomes_certifs/</guid>
       <description>&lt;p&gt;Mes diplômes et certifications obtenus ou en cours d&amp;rsquo;obtention&lt;/p&gt;</description>
     </item>
   </channel>
