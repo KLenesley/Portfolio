@@ -2,3 +2,7 @@ baseURL = 'https://klenesley.github.io/Portfolio/'
 languageCode = 'fr-FR'
 title = 'Portfolio de Kylian'
 theme = 'github-style'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
