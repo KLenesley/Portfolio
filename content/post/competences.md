@@ -15,6 +15,9 @@ Mes compétences maîtrisées et en cours d'apprentissage
 - **CSS** : Stylisation de sites web pour une présentation visuelle attrayante et responsive.
 - **PHP** : Développement côté serveur pour des applications web dynamiques et interactives.
 - **JS** : Programmation côté client pour ajouter des fonctionnalités interactives aux sites web.
+- **Node.js** : Environnement d'exécution JavaScript pour le développement d'applications serveur.
+- **React** : Création d'interfaces utilisateur réactives et performantes avec cette bibliothèque JavaScript.
+- **SQL** : Langage de requête pour interagir avec des bases de données relationnelles.
 - **Python** : Développement de scripts, automatisation de tâches et création d'applications variées.
 - **C#** : Développement d'applications robustes et performantes, notamment sur la plateforme .NET.
 - **Twig** : Utilisation de ce moteur de templates pour générer du HTML de manière dynamique et efficace.
