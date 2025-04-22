@@ -81,9 +81,9 @@ function monthly(year, month, posts) {
       class="col-8 css-truncate css-truncate-target lh-condensed width-fit flex-auto min-width-0">
       <a href="${post.link}">${post.title}</a>
     </div>
-    <time  title="Cet article a été publié le ${months[post.date.getMonth()]} ${post.date.getDate()}"
+    <time  title="Cet article a été publié le ${post.date.getDate()} ${months[post.date.getMonth()]}"
       class="col-2 text-right f6 text-gray-light pt-1">
-      ${months[post.date.getMonth()]} ${post.date.getDate()}
+      ${post.date.getDate()} ${months[post.date.getMonth()]}
     </time>
     </li>`;
   }
@@ -260,7 +260,7 @@ function svgTip(elem, count, dateStr) {
   }
   const rect = getCoords(elem);
   const date = new Date(dateStr);
-  const dateFmt = `${months[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`;
+  const dateFmt = `${date.getDate()} ${months[date.getMonth()]}, ${date.getFullYear()}`;
   if (count) {
     svgElem.innerHTML = `<strong>${count} publications</strong> le ${dateFmt}`;
   } else {

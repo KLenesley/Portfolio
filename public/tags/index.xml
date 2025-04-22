@@ -37,10 +37,24 @@
       <description></description>
     </item>
     <item>
+      <title>Flux RSS</title>
+      <link>http://localhost:1313/Portfolio/tags/flux-rss/</link>
+      <pubDate>Sat, 15 Mar 2025 15:28:12 +0200</pubDate>
+      <guid>http://localhost:1313/Portfolio/tags/flux-rss/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Projets</title>
       <link>http://localhost:1313/Portfolio/tags/projets/</link>
       <pubDate>Sat, 15 Mar 2025 15:28:12 +0200</pubDate>
       <guid>http://localhost:1313/Portfolio/tags/projets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Veille</title>
+      <link>http://localhost:1313/Portfolio/tags/veille/</link>
+      <pubDate>Sat, 15 Mar 2025 15:28:12 +0200</pubDate>
+      <guid>http://localhost:1313/Portfolio/tags/veille/</guid>
       <description></description>
     </item>
     <item>

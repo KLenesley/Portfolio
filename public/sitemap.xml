@@ -35,16 +35,28 @@
     <loc>http://localhost:1313/Portfolio/tags/cv/</loc>
     <lastmod>2025-04-11T15:31:35+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/Portfolio/post/flux_rss/</loc>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/flux-rss/</loc>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Portfolio/post/projets/</loc>
     <lastmod>2025-03-15T15:28:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/tags/projets/</loc>
     <lastmod>2025-03-15T15:28:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Portfolio/tags/dipl%C3%B4mes-et-certifications/</loc>
-    <lastmod>2025-02-07T15:30:54+02:00</lastmod>
+    <loc>http://localhost:1313/Portfolio/tags/veille/</loc>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/post/veille/</loc>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/post/diplomes_certifs/</loc>
+    <lastmod>2025-02-07T15:30:54+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/dipl%C3%B4mes-et-certifications/</loc>
     <lastmod>2025-02-07T15:30:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Portfolio/readme/</loc>
