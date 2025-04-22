@@ -28,6 +28,9 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 - CSS
 - PHP
 - JS
+- Node.js
+- React
+- SQL
 - Python
 - C#
 - Twig
