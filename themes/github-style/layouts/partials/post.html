@@ -22,13 +22,13 @@
                   </strong>
                 </h1>
                 <div class="note m-0">
-                  Created <relative-time datetime="{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}"
+                    Créé le <relative-time datetime="{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}"
                     class="no-wrap">
                     {{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</relative-time>
 
                   {{ if .Site.Params.lastmod }}
                   <span class="file-info-divider"></span>
-                  Modified <relative-time datetime="{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}"
+                    Modifié le <relative-time datetime="{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}"
                     class="no-wrap">
                     {{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</relative-time>
                   {{ end }}
@@ -60,7 +60,7 @@
                         </div>
                       </div>
                     </details-menu>
-                      {{ countwords .Content }} Words
+                      {{ countwords .Content }} Mots
                     <!-- <span class="file-info-divider"></span>
                                         {{ .ReadingTime }} min -->
 
