@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Formations on Portfolio de Kylian</title>
-    <link>http://localhost:1313/Portfolio/tags/formations/</link>
+    <link>https://klenesley.github.io/Portfolio/tags/formations/</link>
     <description>Recent content in Formations on Portfolio de Kylian</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 15 Apr 2025 15:30:05 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/Portfolio/tags/formations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://klenesley.github.io/Portfolio/tags/formations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formations</title>
-      <link>http://localhost:1313/Portfolio/post/formations/</link>
+      <link>https://klenesley.github.io/Portfolio/post/formations/</link>
       <pubDate>Tue, 15 Apr 2025 15:30:05 +0200</pubDate>
-      <guid>http://localhost:1313/Portfolio/post/formations/</guid>
+      <guid>https://klenesley.github.io/Portfolio/post/formations/</guid>
       <description>&lt;p&gt;Mes formations académiques&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio de Kylian</title>
-    <link>http://localhost:1313/Portfolio/</link>
+    <link>https://klenesley.github.io/Portfolio/</link>
     <description>Recent content on Portfolio de Kylian</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
     <lastBuildDate>Tue, 15 Apr 2025 15:30:05 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://klenesley.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formations</title>
-      <link>http://localhost:1313/Portfolio/post/formations/</link>
+      <link>https://klenesley.github.io/Portfolio/post/formations/</link>
       <pubDate>Tue, 15 Apr 2025 15:30:05 +0200</pubDate>
-      <guid>http://localhost:1313/Portfolio/post/formations/</guid>
+      <guid>https://klenesley.github.io/Portfolio/post/formations/</guid>
       <description>&lt;p&gt;Mes formations académiques&lt;/p&gt;</description>
     </item>
     <item>
       <title>Competences</title>
-      <link>http://localhost:1313/Portfolio/post/competences/</link>
+      <link>https://klenesley.github.io/Portfolio/post/competences/</link>
       <pubDate>Tue, 15 Apr 2025 15:29:04 +0200</pubDate>
-      <guid>http://localhost:1313/Portfolio/post/competences/</guid>
+      <guid>https://klenesley.github.io/Portfolio/post/competences/</guid>
       <description>&lt;p&gt;Mes compétences maîtrisées et en cours d&amp;rsquo;apprentissage&lt;/p&gt;</description>
     </item>
     <item>
       <title>Experiences</title>
-      <link>http://localhost:1313/Portfolio/post/experiences/</link>
+      <link>https://klenesley.github.io/Portfolio/post/experiences/</link>
       <pubDate>Tue, 15 Apr 2025 15:28:12 +0200</pubDate>
-      <guid>http://localhost:1313/Portfolio/post/experiences/</guid>
+      <guid>https://klenesley.github.io/Portfolio/post/experiences/</guid>
       <description>&lt;p&gt;Mes expériences professionnelles&lt;/p&gt;</description>
     </item>
     <item>
       <title>CV</title>
-      <link>http://localhost:1313/Portfolio/post/cv/</link>
+      <link>https://klenesley.github.io/Portfolio/post/cv/</link>
       <pubDate>Fri, 11 Apr 2025 15:31:35 +0200</pubDate>
-      <guid>http://localhost:1313/Portfolio/post/cv/</guid>
+      <guid>https://klenesley.github.io/Portfolio/post/cv/</guid>
       <description>&lt;p&gt;Mon CV&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flux RSS</title>
-      <link>http://localhost:1313/Portfolio/post/flux_rss/</link>
+      <link>https://klenesley.github.io/Portfolio/post/flux_rss/</link>
       <pubDate>Sat, 15 Mar 2025 15:28:12 +0200</pubDate>
-      <guid>http://localhost:1313/Portfolio/post/flux_rss/</guid>
+      <guid>https://klenesley.github.io/Portfolio/post/flux_rss/</guid>
       <description>&lt;p&gt;Flux RSS de developpez.com&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projets</title>
-      <link>http://localhost:1313/Portfolio/post/projets/</link>
+      <link>https://klenesley.github.io/Portfolio/post/projets/</link>
       <pubDate>Sat, 15 Mar 2025 15:28:12 +0200</pubDate>
-      <guid>http://localhost:1313/Portfolio/post/projets/</guid>
+      <guid>https://klenesley.github.io/Portfolio/post/projets/</guid>
       <description>&lt;p&gt;Mes projets personnels, scolaires, et professionnels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Veille informatique</title>
-      <link>http://localhost:1313/Portfolio/post/veille/</link>
+      <link>https://klenesley.github.io/Portfolio/post/veille/</link>
       <pubDate>Sat, 15 Mar 2025 15:28:12 +0200</pubDate>
-      <guid>http://localhost:1313/Portfolio/post/veille/</guid>
+      <guid>https://klenesley.github.io/Portfolio/post/veille/</guid>
       <description>&lt;p&gt;Mon sujet de veille informatique pointe sur les frameworks&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diplomes et Certifications</title>
-      <link>http://localhost:1313/Portfolio/post/diplomes_certifs/</link>
+      <link>https://klenesley.github.io/Portfolio/post/diplomes_certifs/</link>
       <pubDate>Fri, 07 Feb 2025 15:30:54 +0200</pubDate>
-      <guid>http://localhost:1313/Portfolio/post/diplomes_certifs/</guid>
+      <guid>https://klenesley.github.io/Portfolio/post/diplomes_certifs/</guid>
       <description>&lt;p&gt;Mes diplômes et certifications obtenus ou en cours d&amp;rsquo;obtention&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/Portfolio/readme/</link>
+      <link>https://klenesley.github.io/Portfolio/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://klenesley.github.io/Portfolio/readme/</guid>
-      <description>&lt;h1 id=&#34;portfolio-de-kylian&#34;&gt;Portfolio de Kylian&lt;/h1&gt;&#xA;&lt;p&gt;Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option SLAM et je suis passionné par l&amp;rsquo;informatique et les nouvelles technologies. Voici un aperçu de mes expériences, compétences et projets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;expériences---en-savoir-plus&#34;&gt;Expériences - &lt;a href=&#34;post/experiences&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;agent-d&#34;&gt;&lt;strong&gt;Agent d&amp;rsquo;accueil / d&amp;rsquo;entretien - Aquabaie, Avranches&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;stagiaire-informatique---happy-cash-vire&#34;&gt;Stagiaire Informatique - Happy Cash, Vire&lt;/h3&gt;&#xA;&lt;h3 id=&#34;stagiaire-informatique---phone-expert-coutances&#34;&gt;Stagiaire Informatique - Phone Expert, Coutances&lt;/h3&gt;&#xA;&lt;h3 id=&#34;stagiaire-informatique---ioburo-coutances&#34;&gt;Stagiaire Informatique - IoBuro, Coutances&lt;/h3&gt;&#xA;&lt;h2 id=&#34;formations---en-savoir-plus&#34;&gt;Formations - &lt;a href=&#34;post/formations&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;bts-sio-option-slam&#34;&gt;&lt;strong&gt;BTS SIO option SLAM&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;baccalauréat-professionnel-sn-option-risc&#34;&gt;Baccalauréat professionnel SN option RISC&lt;/h3&gt;&#xA;&lt;h2 id=&#34;compétences---en-savoir-plus&#34;&gt;Compétences - &lt;a href=&#34;post/competences&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;langages-de-programmation-moteur-de-templates-outils--logiciels&#34;&gt;Langages de Programmation, Moteur de Templates, Outils &amp;amp; Logiciels&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;PHP&lt;/li&gt;&#xA;&lt;li&gt;JS&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;C#&lt;/li&gt;&#xA;&lt;li&gt;Twig&lt;/li&gt;&#xA;&lt;li&gt;Composer&lt;/li&gt;&#xA;&lt;li&gt;GitHub&lt;/li&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;systèmes-dexploitation&#34;&gt;Systèmes d&amp;rsquo;Exploitation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Windows&lt;/li&gt;&#xA;&lt;li&gt;Windows Server 2022&lt;/li&gt;&#xA;&lt;li&gt;Linux&lt;/li&gt;&#xA;&lt;li&gt;Debian&lt;/li&gt;&#xA;&lt;li&gt;Ubuntu&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;administration--réseau&#34;&gt;Administration &amp;amp; Réseau&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docker&lt;/li&gt;&#xA;&lt;li&gt;Proxmox&lt;/li&gt;&#xA;&lt;li&gt;Active Directory&lt;/li&gt;&#xA;&lt;li&gt;DNS&lt;/li&gt;&#xA;&lt;li&gt;DHCP&lt;/li&gt;&#xA;&lt;li&gt;Apache&lt;/li&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;MariaDB&lt;/li&gt;&#xA;&lt;li&gt;Zabbix&lt;/li&gt;&#xA;&lt;li&gt;Wireshark&lt;/li&gt;&#xA;&lt;li&gt;SSH&lt;/li&gt;&#xA;&lt;li&gt;FTP&lt;/li&gt;&#xA;&lt;li&gt;SFTP&lt;/li&gt;&#xA;&lt;li&gt;Nextcloud&lt;/li&gt;&#xA;&lt;li&gt;GLPI&lt;/li&gt;&#xA;&lt;li&gt;Serveur D&amp;rsquo;impression&lt;/li&gt;&#xA;&lt;li&gt;GPO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;diplômes--certifications---en-savoir-plus&#34;&gt;Diplômes &amp;amp; Certifications - &lt;a href=&#34;post/diplomes_certifs&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Baccalauréat professionnel avec mention&lt;/li&gt;&#xA;&lt;li&gt;Certification MOOC de l&amp;rsquo;anssi&lt;/li&gt;&#xA;&lt;li&gt;Certification Pix actuellement à plus de 800 points&lt;/li&gt;&#xA;&lt;li&gt;Badge Introduction to Responsible AI&lt;/li&gt;&#xA;&lt;li&gt;Badge Introduction to Large Language Models&lt;/li&gt;&#xA;&lt;li&gt;Badge Introduction to Generative AI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;projets---en-savoir-plus&#34;&gt;Projets - &lt;a href=&#34;post/projets&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;siotradelink&#34;&gt;SIOTradeLink&lt;/h3&gt;&#xA;&lt;h3 id=&#34;thinkphp&#34;&gt;ThinkPHP&lt;/h3&gt;&#xA;&lt;h3 id=&#34;skyfalljs&#34;&gt;SkyFallJS&lt;/h3&gt;&#xA;&lt;h2 id=&#34;cv---en-savoir-plus&#34;&gt;CV - &lt;a href=&#34;post/cv&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://downgit.github.io/#/home?url=https://github.com/KLenesley/Portfolio/blob/github-pages/public/files/CV_Kylian_Lenesley.pdf&#34;&gt;Lien téléchargement&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h1 id=&#34;portfolio-de-kylian&#34;&gt;Portfolio de Kylian&lt;/h1&gt;&#xA;&lt;p&gt;Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option SLAM et je suis passionné par l&amp;rsquo;informatique et les nouvelles technologies.&lt;/p&gt;&#xA;&lt;h2 id=&#34;expériences---en-savoir-plus&#34;&gt;Expériences - &lt;a href=&#34;post/experiences&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;agent-d&#34;&gt;&lt;strong&gt;Agent d&amp;rsquo;accueil / d&amp;rsquo;entretien - Aquabaie, Avranches&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;stagiaire-informatique---happy-cash-vire&#34;&gt;Stagiaire Informatique - Happy Cash, Vire&lt;/h3&gt;&#xA;&lt;h3 id=&#34;stagiaire-informatique---phone-expert-coutances&#34;&gt;Stagiaire Informatique - Phone Expert, Coutances&lt;/h3&gt;&#xA;&lt;h3 id=&#34;stagiaire-informatique---ioburo-coutances&#34;&gt;Stagiaire Informatique - IoBuro, Coutances&lt;/h3&gt;&#xA;&lt;h2 id=&#34;formations---en-savoir-plus&#34;&gt;Formations - &lt;a href=&#34;post/formations&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;bts-sio-option-slam&#34;&gt;&lt;strong&gt;BTS SIO option SLAM&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;h3 id=&#34;baccalauréat-professionnel-sn-option-risc&#34;&gt;Baccalauréat professionnel SN option RISC&lt;/h3&gt;&#xA;&lt;h2 id=&#34;compétences---en-savoir-plus&#34;&gt;Compétences - &lt;a href=&#34;post/competences&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;langages-de-programmation-moteur-de-templates-outils--logiciels&#34;&gt;Langages de Programmation, Moteur de Templates, Outils &amp;amp; Logiciels&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;PHP&lt;/li&gt;&#xA;&lt;li&gt;JS&lt;/li&gt;&#xA;&lt;li&gt;Node.js&lt;/li&gt;&#xA;&lt;li&gt;React&lt;/li&gt;&#xA;&lt;li&gt;SQL&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;C#&lt;/li&gt;&#xA;&lt;li&gt;Twig&lt;/li&gt;&#xA;&lt;li&gt;Composer&lt;/li&gt;&#xA;&lt;li&gt;GitHub&lt;/li&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;systèmes-dexploitation&#34;&gt;Systèmes d&amp;rsquo;Exploitation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Windows&lt;/li&gt;&#xA;&lt;li&gt;Windows Server 2022&lt;/li&gt;&#xA;&lt;li&gt;Linux&lt;/li&gt;&#xA;&lt;li&gt;Debian&lt;/li&gt;&#xA;&lt;li&gt;Ubuntu&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;administration--réseau&#34;&gt;Administration &amp;amp; Réseau&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docker&lt;/li&gt;&#xA;&lt;li&gt;Proxmox&lt;/li&gt;&#xA;&lt;li&gt;Active Directory&lt;/li&gt;&#xA;&lt;li&gt;DNS&lt;/li&gt;&#xA;&lt;li&gt;DHCP&lt;/li&gt;&#xA;&lt;li&gt;Apache&lt;/li&gt;&#xA;&lt;li&gt;MySQL&lt;/li&gt;&#xA;&lt;li&gt;MariaDB&lt;/li&gt;&#xA;&lt;li&gt;Zabbix&lt;/li&gt;&#xA;&lt;li&gt;Wireshark&lt;/li&gt;&#xA;&lt;li&gt;SSH&lt;/li&gt;&#xA;&lt;li&gt;FTP&lt;/li&gt;&#xA;&lt;li&gt;SFTP&lt;/li&gt;&#xA;&lt;li&gt;Nextcloud&lt;/li&gt;&#xA;&lt;li&gt;GLPI&lt;/li&gt;&#xA;&lt;li&gt;Serveur D&amp;rsquo;impression&lt;/li&gt;&#xA;&lt;li&gt;GPO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;diplômes--certifications---en-savoir-plus&#34;&gt;Diplômes &amp;amp; Certifications - &lt;a href=&#34;post/diplomes_certifs&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Baccalauréat professionnel avec mention&lt;/li&gt;&#xA;&lt;li&gt;Certification MOOC de l&amp;rsquo;anssi&lt;/li&gt;&#xA;&lt;li&gt;Certification Pix actuellement à plus de 800 points&lt;/li&gt;&#xA;&lt;li&gt;Badge Introduction to Responsible AI&lt;/li&gt;&#xA;&lt;li&gt;Badge Introduction to Large Language Models&lt;/li&gt;&#xA;&lt;li&gt;Badge Introduction to Generative AI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;projets---en-savoir-plus&#34;&gt;Projets - &lt;a href=&#34;post/projets&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;siotradelink&#34;&gt;SIOTradeLink&lt;/h3&gt;&#xA;&lt;h3 id=&#34;thinkphp&#34;&gt;ThinkPHP&lt;/h3&gt;&#xA;&lt;h3 id=&#34;skyfalljs&#34;&gt;SkyFallJS&lt;/h3&gt;&#xA;&lt;h2 id=&#34;veille-informatique--en-savoir-plus&#34;&gt;Veille Informatique- &lt;a href=&#34;post/veille&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sujet-de-veille--les-frameworks&#34;&gt;Sujet de veille : Les Frameworks&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction&lt;/li&gt;&#xA;&lt;li&gt;Qu&amp;rsquo;est-ce qu&amp;rsquo;un Framework ?&lt;/li&gt;&#xA;&lt;li&gt;Types de Frameworks&lt;/li&gt;&#xA;&lt;li&gt;Avantages &amp;amp; Inconvénients des Frameworks&lt;/li&gt;&#xA;&lt;li&gt;Mon expérience&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cv---en-savoir-plus&#34;&gt;CV - &lt;a href=&#34;post/cv&#34;&gt;En savoir plus&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://downgit.github.io/#/home?url=https://github.com/KLenesley/Portfolio/blob/github-pages/public/files/CV_Kylian_Lenesley.pdf&#34;&gt;Lien téléchargement&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
