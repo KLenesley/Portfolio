@@ -1,6 +1,6 @@
 # Portfolio de Kylian
 
-Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option SLAM et je suis passionné par l'informatique et les nouvelles technologies. Voici un aperçu de mes expériences, compétences et projets.
+Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option SLAM et je suis passionné par l'informatique et les nouvelles technologies.
 
 
 ## Expériences - [En savoir plus](post/experiences)

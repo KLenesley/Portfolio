@@ -9,6 +9,7 @@ pygmentsUseClasses = true
   author = "Lenesley Kylian"
   description = "Étudiant en BTS SIO SLAM, passionné de dev. J'apprends HTML, CSS, JS, PHP, Python et C#. Toujours motivé à progresser et créer de nouveaux projets !"
   github = "KLenesley"
+  linkedin = "kylian-lenesley"
   email = "lenesley.kylian@gmail.com"
   url = "https://klenesley.github.io/Portfolio/"
   keywords = "blog, google analytics"
