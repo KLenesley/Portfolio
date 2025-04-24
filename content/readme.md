@@ -84,6 +84,16 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 ### SkyFallJS
 
 
+## Veille Informatique- [En savoir plus](post/veille)
+
+### Sujet de veille : Les Frameworks
+- Introduction
+- Qu'est-ce qu'un Framework ?
+- Types de Frameworks
+- Avantages & Inconvénients des Frameworks
+- Mon expérience
+
+
 ## CV - [En savoir plus](post/cv)
 
 - [Lien téléchargement](https://downgit.github.io/#/home?url=https://github.com/KLenesley/Portfolio/blob/github-pages/public/files/CV_Kylian_Lenesley.pdf)
