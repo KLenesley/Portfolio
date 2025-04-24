@@ -1,0 +1,48 @@
+baseURL = "https://klenesley.github.io/Portfolio/"
+languageCode = "fr-FR"
+title = "Portfolio de Kylian"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Lenesley Kylian"
+  description = "Étudiant en BTS SIO SLAM, passionné de dev. J'apprends HTML, CSS, JS, PHP, Python et C#. Toujours motivé à progresser et créer de nouveaux projets !"
+  github = "KLenesley"
+  email = "lenesley.kylian@gmail.com"
+  url = "https://klenesley.github.io/Portfolio/"
+  keywords = "blog, google analytics"
+  rss = true 
+  lastmod = true
+  favicon = "/images/github-mark.png"
+  avatar = "/images/profile.png"
+  headerIcon = "/images/github-mark-white.png"
+  location = "France, Avranches"
+  userStatusEmoji = "👨‍💻"
+  enableGitalk = false
+  enableSearch = true
+
+  [params.gitalk]
+    clientID = "Your client ID" # Your client ID
+    clientSecret = "Your client secret" # Your client secret
+    repo = "Portfolio" # GitHub repository name, for example: xxxx.github.io
+    owner = "KLenesley"
+    admin = "KLenesley"
+    id = "location.pathname" # The page link address is the ID
+    labels = "gitalk" # GitHub issue labels. If you used to use Gitment, you can change it
+    perPage = 15 # Pagination size, with a maximum of 100.
+    pagerDirection = "last" # Comment sorting direction, available values are 'last' and 'first'.
+    createIssueManually = true # Set to true, if the admin logs in, the issue will be automatically created. If set to false, the admin needs to manually add the first comment (issue).
+    distractionFreeMode = false # Enable hot key (cmd|ctrl + enter) to submit a comment.
+    proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # You can add a reverse proxy yourself
+  [[params.links]]
+    title = "Link"
+    href = "https://www.cloudskillsboost.google/public_profiles/c42286ea-2c3c-4bb6-9fe4-a750c97d0bbd"
+    icon = "/images/google.png"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[services]
+  [services.googleAnalytics]
+    ID = "UA-123456-789"

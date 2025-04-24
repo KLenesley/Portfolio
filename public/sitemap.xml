@@ -2,53 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://klenesley.github.io/Portfolio/post/formations/</loc>
+    <loc>http://localhost:1313/Portfolio/post/formations/</loc>
     <lastmod>2025-04-15T15:30:05+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/tags/formations/</loc>
+    <loc>http://localhost:1313/Portfolio/tags/formations/</loc>
     <lastmod>2025-04-15T15:30:05+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/</loc>
+    <loc>http://localhost:1313/Portfolio/</loc>
     <lastmod>2025-04-15T15:30:05+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/post/</loc>
+    <loc>http://localhost:1313/Portfolio/post/</loc>
     <lastmod>2025-04-15T15:30:05+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/tags/</loc>
+    <loc>http://localhost:1313/Portfolio/tags/</loc>
     <lastmod>2025-04-15T15:30:05+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/post/competences/</loc>
+    <loc>http://localhost:1313/Portfolio/post/competences/</loc>
     <lastmod>2025-04-15T15:29:04+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/tags/comp%C3%A9tences/</loc>
+    <loc>http://localhost:1313/Portfolio/tags/comp%C3%A9tences/</loc>
     <lastmod>2025-04-15T15:29:04+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/post/experiences/</loc>
+    <loc>http://localhost:1313/Portfolio/post/experiences/</loc>
     <lastmod>2025-04-15T15:28:12+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/tags/exp%C3%A9riences/</loc>
+    <loc>http://localhost:1313/Portfolio/tags/exp%C3%A9riences/</loc>
     <lastmod>2025-04-15T15:28:12+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/post/cv/</loc>
+    <loc>http://localhost:1313/Portfolio/post/cv/</loc>
     <lastmod>2025-04-11T15:31:35+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/tags/cv/</loc>
+    <loc>http://localhost:1313/Portfolio/tags/cv/</loc>
     <lastmod>2025-04-11T15:31:35+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/post/projets/</loc>
+    <loc>http://localhost:1313/Portfolio/post/flux_rss/</loc>
     <lastmod>2025-03-15T15:28:12+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/tags/projets/</loc>
+    <loc>http://localhost:1313/Portfolio/tags/flux-rss/</loc>
     <lastmod>2025-03-15T15:28:12+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/tags/dipl%C3%B4mes-et-certifications/</loc>
+    <loc>http://localhost:1313/Portfolio/post/projets/</loc>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/projets/</loc>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/tags/veille/</loc>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/post/veille/</loc>
+    <lastmod>2025-03-15T15:28:12+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio/post/diplomes_certifs/</loc>
     <lastmod>2025-02-07T15:30:54+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/post/diplomes_certifs/</loc>
+    <loc>http://localhost:1313/Portfolio/tags/dipl%C3%B4mes-et-certifications/</loc>
     <lastmod>2025-02-07T15:30:54+02:00</lastmod>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/readme/</loc>
+    <loc>http://localhost:1313/Portfolio/readme/</loc>
   </url><url>
-    <loc>https://klenesley.github.io/Portfolio/categories/</loc>
+    <loc>http://localhost:1313/Portfolio/categories/</loc>
   </url>
 </urlset>

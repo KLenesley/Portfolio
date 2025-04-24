@@ -1,6 +1,6 @@
 # Portfolio de Kylian
 
-Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option SLAM et je suis passionné par l'informatique et les nouvelles technologies. Voici un aperçu de mes expériences, compétences et projets.
+Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option SLAM et je suis passionné par l'informatique et les nouvelles technologies.
 
 
 ## Expériences - [En savoir plus](post/experiences)
@@ -82,6 +82,16 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 ### ThinkPHP
 
 ### SkyFallJS
+
+
+## Veille Informatique- [En savoir plus](post/veille)
+
+### Sujet de veille : Les Frameworks
+- Introduction
+- Qu'est-ce qu'un Framework ?
+- Types de Frameworks
+- Avantages & Inconvénients des Frameworks
+- Mon expérience
 
 
 ## CV - [En savoir plus](post/cv)

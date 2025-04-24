@@ -1,5 +1,5 @@
 ---
-title: "Diplomes_certifs"
+title: "Diplomes et Certifications"
 date: 2025-02-07T15:30:54+02:00
 draft: false
 tags: ["Diplômes et Certifications"]

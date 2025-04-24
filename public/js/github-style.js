@@ -1,5 +1,5 @@
-const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-const monthsFull = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+const months = ['Janv', 'Févr', 'Mars', 'Avr', 'Mai', 'Juin', 'Juil', 'Août', 'Sept', 'Oct', 'Nov', 'Déc'];
+const monthsFull = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"];
 const now = new Date();
 let contributions;
 
@@ -81,11 +81,11 @@ function monthly(year, month, posts) {
       class="col-8 css-truncate css-truncate-target lh-condensed width-fit flex-auto min-width-0">
       <a href="${post.link}">${post.title}</a>
     </div>
-    <time  title="This post was made on ${months[post.date.getMonth()]} ${post.date.getDate()}"
+    <time  title="Cet article a été publié le ${post.date.getDate()} ${months[post.date.getMonth()]}"
       class="col-2 text-right f6 text-gray-light pt-1">
-      ${months[post.date.getMonth()]} ${post.date.getDate()}
+      ${post.date.getDate()} ${months[post.date.getMonth()]}
     </time>
-  </li>`;
+    </li>`;
   }
   return `
   <div class="contribution-activity-listing float-left col-12 col-lg-10">
@@ -107,7 +107,7 @@ function monthly(year, month, posts) {
           <details class="Details-element details-reset" open>
             <summary role="button" class="btn-link f4 muted-link no-underline lh-condensed width-full">
               <span class="color-text-primary ws-normal text-left">
-                Created ${monthPosts.length} post${monthPosts.length > 1 ? 's' : ''}
+                Créé ${monthPosts.length} publication${monthPosts.length > 1 ? 's' : ''}
               </span>
               <span class="d-inline-block float-right color-icon-secondary">
                 <span class="Details-content--open float-right">
@@ -156,11 +156,11 @@ function yearList() {
 }
 
 function graph(year, posts, startDate, endDate) {
-  const postsStr = posts.length === 1 ? "post" : "posts";
+  const postsStr = posts.length === 1 ? "publication" : "publications";
   if (year === now.getFullYear().toString()) {
-    document.querySelector('#posts-count').innerText = `${posts.length}  ${postsStr} in the last year`;
-  } else {
-    document.querySelector('#posts-count').innerText = `${posts.length}  ${postsStr} in ${year}`;
+    document.querySelector('#posts-count').innerText = `${posts.length} ${postsStr} dans la dernière année`;
+    } else {
+    document.querySelector('#posts-count').innerText = `${posts.length} ${postsStr} en ${year}`;
   }
 
   let html = ``;
@@ -235,16 +235,16 @@ function graph(year, posts, startDate, endDate) {
   }
   html += `
 <text text-anchor="start" class="wday" dx="-10" dy="8"
-style="display: none;">Sun</text>
-<text text-anchor="start" class="wday" dx="-10" dy="25">Mon</text>
+style="display: none;">Dim</text>
+<text text-anchor="start" class="wday" dx="-10" dy="25">Lun</text>
 <text text-anchor="start" class="wday" dx="-10" dy="32"
-style="display: none;">Tue</text>
-<text text-anchor="start" class="wday" dx="-10" dy="56">Wed</text>
+style="display: none;">Mar</text>
+<text text-anchor="start" class="wday" dx="-10" dy="56">Mer</text>
 <text text-anchor="start" class="wday" dx="-10" dy="57"
-style="display: none;">Thu</text>
-<text text-anchor="start" class="wday" dx="-10" dy="85">Fri</text>
+style="display: none;">Jeu</text>
+<text text-anchor="start" class="wday" dx="-10" dy="85">Ven</text>
 <text text-anchor="start" class="wday" dx="-10" dy="81"
-style="display: none;">Sat</text>
+style="display: none;">Sam</text>
 `;
   document.querySelector('#graph-svg').innerHTML = html;
 }
@@ -260,11 +260,11 @@ function svgTip(elem, count, dateStr) {
   }
   const rect = getCoords(elem);
   const date = new Date(dateStr);
-  const dateFmt = `${months[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`;
+  const dateFmt = `${date.getDate()} ${months[date.getMonth()]}, ${date.getFullYear()}`;
   if (count) {
-    svgElem.innerHTML = `<strong>${count} posts</strong> on ${dateFmt}`;
+    svgElem.innerHTML = `<strong>${count} publications</strong> le ${dateFmt}`;
   } else {
-    svgElem.innerHTML = `<strong>No posts</strong> on ${dateFmt}`;
+    svgElem.innerHTML = `<strong>Aucune publication</strong> le ${dateFmt}`;
   }
   svgElem.style.display = 'block';
   const tipRect = svgElem.getBoundingClientRect();
@@ -303,16 +303,16 @@ function relativeTime(dateStr) {
   const hours = Math.floor(diff / 60 / 60);
   const days = Math.floor(diff / 60 / 60 / 24);
   if (seconds < 60) {
-    return `${seconds} seconds ago`;
+    return `il y a ${seconds} secondes`;
   }
   if (minutes < 60) {
-    return `${minutes} minutes ago`;
+    return `il y a ${minutes} minutes`;
   }
   if (hours < 24) {
-    return `${hours} hours ago`;
+    return `il y a ${hours} heures`;
   }
   if (days < 30) {
-    return `${days} days ago`;
+    return `il y a ${days} jours`;
   }
   if (date.getFullYear() === now.getFullYear()) {
     return `${date.getDate()} ${months[date.getMonth()]}`;
