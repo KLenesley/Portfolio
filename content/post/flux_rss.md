@@ -7,6 +7,3 @@ tags: ["Flux RSS"]
 Flux RSS de developpez.com
 <!--more-->
 Flux RSS de developpez.com : https://www.developpez.com/index/rss
-<!--START_SECTION:feed-->
-...
-<!--END_SECTION:feed-->

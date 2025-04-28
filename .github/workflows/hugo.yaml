@@ -79,6 +79,12 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Run RSS Feed to Markdown Action
+        uses: keiranlovett/rss-feed-to-markdown@main
+        with:
+          feed_url: 'https://www.developpez.com/index/rss'
+          template_file: 'themes/github-style/assets/template.md'
+          output_dir: 'content/post/'
 
   # Deployment job
   deploy:
