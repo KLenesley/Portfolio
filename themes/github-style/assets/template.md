@@ -1,4 +1,8 @@
 ---
+title: "Flux RSS"
+date: 2025-03-15T15:28:12+02:00
+draft: false
+tags: ["Flux RSS"]
 id: [ID]
 link: [LINK]
 title: [TITLE]
@@ -18,3 +22,7 @@ _Published on [DATE]_
 
 ---
 Categories: [CATEGORIES]
+
+Flux RSS de developpez.com
+<!--more-->
+Flux RSS de developpez.com : https://www.developpez.com/index/rss
