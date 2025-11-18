@@ -1,6 +1,6 @@
 ---
 title: "Experiences"
-date: 2025-04-15T15:28:12+02:00
+date: 2025-11-15T15:28:12+02:00
 draft: false
 tags: ["Expériences"]
 ---
@@ -12,6 +12,13 @@ Mes expériences professionnelles
   - Réception et assistance des clients, garantissant un service de qualité et une satisfaction optimale.
   - Entretien rigoureux des locaux pour maintenir un environnement impeccable et accueillant.
   - Gestion de la caisse, incluant la supervision des transactions financières, la manipulation des espèces et la tenue précise des registres comptables.
+
+### Stagiaire Développeur Web - La Prohibition, Jullouville
+- **Date**: De mai à juin 2025
+- **Description**:
+  - Création d'un site web vitrine de A à Z pour le bar restaurant La Prohibition, mettant en avant ses services et événements.
+  - Utilisation du framework Next.js pour le développement front-end, assurant une interface utilisateur moderne et réactive.
+  - Intégration d'une base de données Supabase pour la gestion dynamique du contenu du site.
 
 ### Stagiaire Informatique - Happy Cash, Vire
 - **Date**: Stage de 4 semaines en 2023

@@ -1,6 +1,6 @@
 ---
 title: "Diplomes et Certifications"
-date: 2025-02-07T15:30:54+02:00
+date: 2025-11-17T15:30:54+02:00
 draft: false
 tags: ["Diplômes et Certifications"]
 ---
@@ -21,6 +21,7 @@ Mes diplômes et certifications obtenus ou en cours d'obtention
 ### Diplômes et certifications en cours d'obtention
 
 - **Brevet de technicien supérieur SIO option SLAM** : Formation technique supérieure en informatique, spécialisée dans les solutions logicielles et applications métiers.
+- **Certification SymfonyCast** : Formation approfondie sur le framework Symfony pour le développement d'applications web en PHP.
 - **Prompt Design in Vertex AI** : Apprentissage de la conception de prompts efficaces pour les modèles d'IA sur la plateforme Vertex AI.
 - **Responsible AI: Applying AI Principles with Google Cloud** : Formation sur l'application des principes d'IA responsable dans les projets utilisant Google Cloud.
 - **Reliable Google Cloud Infrastructure: Design and Process** : Acquisition des compétences pour concevoir et gérer des infrastructures fiables sur Google Cloud.
