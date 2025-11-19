@@ -1,6 +1,6 @@
 ---
 title: "Formations"
-date: 2025-04-15T15:30:05+02:00
+date: 2025-11-18T15:30:05+02:00
 draft: false
 tags: ["Formations"]
 ---
@@ -13,6 +13,8 @@ Mes formations académiques
   - Formation axée sur le développement d'applications et la gestion de projets informatiques.
   - Acquisition de compétences en programmation, bases de données, et gestion de projets.
   - Apprentissage des langages de programmation tels que C#, PHP, JavaScript, CSS, HTML et SQL.
+  - Apprentissage des méthodologies de développement Agile et Scrum.
+  - Utilisation de frameworks et bibliothèques modernes comme Symfony et composer.
   - Apprentissage des outils de développement tels que Visual Studio et Git.
   - Formation sur les systèmes d'exploitation Windows et Debian.
   - Apprentisssage des bases de la cybersécurité et de la gestion des réseaux.

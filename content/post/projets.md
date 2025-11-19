@@ -1,11 +1,18 @@
 ---
 title: "Projets"
-date: 2025-03-15T15:28:12+02:00
+date: 2025-11-17T15:28:12+02:00
 draft: false
 tags: ["Projets"]
 ---
 Mes projets personnels, scolaires, et professionnels.
 <!--more-->
+### IAdventure
+- Langage : PHP.
+- Framework : Symfony.
+- Description : IAdventure est une activité ludique et pédagogique pour découvrir un domaine informatique (telle que l'intelligence artificielle) en équipe.à
+
+- Dépot : [Lien vers le dépôt](https://github.com/KLenesley/IAdventure)
+
 ### SIOTradeLink
 - Langage : Javascript.
 - Description : SIOTradeLink est une extension conçue pour simplifier vos recherches du jeu boursier. Elle vous redirige les actions du site Planspiel Börse vers Boursorama pour une analyse plus complète de cette action.

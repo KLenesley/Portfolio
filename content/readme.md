@@ -3,9 +3,11 @@
 Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option SLAM et je suis passionné par l'informatique et les nouvelles technologies.
 
 
-## Expériences - [En savoir plus](post/experiences)
+## Expériences professionnelles - [En savoir plus](post/experiences)
 
 ### **Agent d'accueil / d'entretien - Aquabaie, Avranches**
+
+### Stagiaire Developpement - La Prohibition, Jullouville
 
 ### Stagiaire Informatique - Happy Cash, Vire
 
@@ -16,7 +18,9 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 
 ## Formations - [En savoir plus](post/formations)
 
-### **BTS SIO option SLAM**
+### **BTS SIO option SLAM 2eme années**
+
+### BTS SIO option SLAM 1ere années
 
 ### Baccalauréat professionnel SN option RISC
 
@@ -37,6 +41,10 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 - Composer
 - GitHub
 - Git
+- Visual Studio Code
+- Docker
+- Docker Compose
+- IA
 
 ### Systèmes d'Exploitation
 - Windows
@@ -44,9 +52,9 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 - Linux
 - Debian
 - Ubuntu
+- Arch Linux
 
 ### Administration & Réseau
-- Docker
 - Proxmox
 - Active Directory
 - DNS
@@ -59,7 +67,6 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 - SSH
 - FTP
 - SFTP
-- Nextcloud
 - GLPI
 - Serveur D'impression
 - GPO
@@ -68,14 +75,17 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 ## Diplômes & Certifications - [En savoir plus](post/diplomes_certifs)
 
 - Baccalauréat professionnel avec mention
+- Certification SymfonyCast
 - Certification MOOC de l'anssi
-- Certification Pix actuellement à plus de 800 points
+- Certification Pix
 - Badge Introduction to Responsible AI
 - Badge Introduction to Large Language Models
 - Badge Introduction to Generative AI
 
 
 ## Projets - [En savoir plus](post/projets)
+
+### IAdventure
 
 ### SIOTradeLink
 
@@ -96,4 +106,4 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en BTS SIO option S
 
 ## CV - [En savoir plus](post/cv)
 
-- [Lien téléchargement](https://downgit.github.io/#/home?url=https://github.com/KLenesley/Portfolio/blob/github-pages/public/files/CV_Kylian_Lenesley.pdf)
+- [Lien téléchargement](https://downgit.github.io/#/home?url=https://github.com/KLenesley/Portfolio/blob/github-pages/public/files/CV_Lenesley_Kylian.pdf)

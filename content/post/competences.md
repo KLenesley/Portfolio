@@ -1,6 +1,6 @@
 ---
 title: "Competences"
-date: 2025-04-15T15:29:04+02:00
+date: 2025-11-18T15:29:04+02:00
 draft: false
 tags: ["Compétences"]
 ---
@@ -24,6 +24,10 @@ Mes compétences maîtrisées et en cours d'apprentissage
 - **Composer** : Gestion des dépendances PHP pour des projets organisés et maintenables.
 - **GitHub** : Hébergement et collaboration sur des projets de code avec gestion de versions.
 - **Git** : Utilisation du système de contrôle de version pour le suivi des modifications de code.
+- **Visual Studio Code** : Environnement de développement intégré (IDE) polyvalent pour coder efficacement.
+- **Docker** : Conteneurisation d'applications pour un déploiement simplifié et cohérent.
+- **Docker Compose** : Orchestration de conteneurs Docker pour des environnements multi-conteneurs.
+- **IA** : Utilisation de l'intelligence artificielle pour améliorer les processus de développement et d'analyse.
 
 ## Systèmes d'Exploitation
 
@@ -31,11 +35,11 @@ Mes compétences maîtrisées et en cours d'apprentissage
 - **Windows Server 2022** : Administration et gestion de serveurs Windows pour des infrastructures réseau.
 - **Linux** : Utilisation avancée des distributions Linux pour des tâches variées en développement et administration.
 - **Debian** : Gestion et configuration de systèmes basés sur Debian pour des environnements stables.
-- **Ubuntu** : Utilisation d'Ubuntu pour des projets nécessitant une distribution Linux conviviale et polyvalente.
+- **Ubuntu** : Utilisation d'Ubuntu personnelle pour des projets nécessitant une distribution Linux conviviale et polyvalente.
+- **Arch Linux** : Utilisation d'Arch Linux pour une utilisation personnelle.
 
 ## Administration & Réseau
 
-- **Docker** : Conteneurisation d'applications pour un déploiement simplifié et cohérent.
 - **Proxmox** : Gestion de la virtualisation pour des environnements serveurs efficaces.
 - **Active Directory** : Gestion des services d'annuaire pour l'authentification et l'autorisation réseau.
 - **DNS** : Configuration et gestion des serveurs DNS pour la résolution de noms de domaine.
@@ -48,7 +52,6 @@ Mes compétences maîtrisées et en cours d'apprentissage
 - **SSH** : Connexion sécurisée à des serveurs distants pour l'administration à distance.
 - **FTP** : Transfert de fichiers entre systèmes pour la gestion de contenu.
 - **SFTP** : Transfert sécurisé de fichiers avec chiffrement pour une protection accrue.
-- **Nextcloud** : Mise en place de solutions de stockage et de partage de fichiers en cloud.
 - **GLPI** : Gestion des services informatiques et du support technique.
 - **Serveur D'impression** : Configuration et gestion de serveurs d'impression pour des environnements de bureau.
 - **GPO** : Application de stratégies de groupe pour la gestion centralisée des configurations Windows.
