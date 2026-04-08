@@ -1,6 +1,6 @@
 ---
 title: "Experiences"
-date: 2025-11-15T15:28:12+02:00
+date: 2026-07-15T15:28:12+02:00
 draft: false
 tags: ["Expériences"]
 ---
@@ -12,6 +12,13 @@ Mes expériences professionnelles
   - Réception et assistance des clients, garantissant un service de qualité et une satisfaction optimale.
   - Entretien rigoureux des locaux pour maintenir un environnement impeccable et accueillant.
   - Gestion de la caisse, incluant la supervision des transactions financières, la manipulation des espèces et la tenue précise des registres comptables.
+
+### Stagiaire Développeur Web - FCPro, Avranches
+- **Date**: Du 13Janvier au 14 Février 2026
+- **Description**:
+  - Création de SOrienterDansLeLycée, une application web destinée à aider les élèves à s'orienter dans le lycée.
+  - Utilisation du framework Symfony pour le développement de l'application, assurant une architecture solide et une performance optimale.
+  - Projet réalise par 2 developpeurs, avec une répartition des tâches efficace pour garantir la réussite du projet dans les délais impartis.
 
 ### Stagiaire Développeur Web - La Prohibition, Jullouville
 - **Date**: De mai à juin 2025

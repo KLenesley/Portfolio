@@ -1,13 +1,13 @@
 ---
 title: "CV"
-date: 2025-11-18T15:31:35+02:00
+date: 2026-07-18T15:31:35+02:00
 draft: false
 tags: ["CV"]
 ---
 Mon CV
 <!--more-->
 ## CV
-[Lien de téléchargement de mon cv](https://downgit.github.io/#/home?url=https://github.com/KLenesley/Portfolio/blob/github-pages/public/files/CV_Lenesley_Kylian.pdf)
+[Lien vers mon cv](https://github.com/KLenesley/Portfolio/blob/HUGO/public/files/CV_Lenesley_Kylian.pdf)
 
 # Kylian Lenesley
 Étudiant en BTS SIO option SLAM, passionné depuis son plus jeune âge, toujours motivé à progresser et à créer de nouveaux projets !
