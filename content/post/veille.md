@@ -1,6 +1,6 @@
 ---
 title: "Veille informatique"
-date: 2025-11-16T15:28:12+02:00
+date: 2026-07-16T15:28:12+02:00
 draft: false
 tags: ["Veille"]
 ---

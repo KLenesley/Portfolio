@@ -1,11 +1,25 @@
 ---
 title: "Projets"
-date: 2025-11-17T15:28:12+02:00
+date: 2026-07-17T15:28:12+02:00
 draft: false
 tags: ["Projets"]
 ---
 Mes projets personnels, scolaires, et professionnels.
 <!--more-->
+### SOrienterDansLeLycée
+- Langage : PHP.
+- Framework : Symfony.
+- Description : S'orienter dans le lycée est une application web qui permet aux élèves de s'orienter dans le lycée.
+
+- Dépot : [Lien vers le dépôt](https://github.com/KLenesley/SOrienterDansLeLycee)
+
+### ATEDI
+- Langage : PHP
+- Framework : Symfony.
+- Description : Assistance Technique Et Dépannage Informatique.
+
+- Dépot : [Lien vers le dépôt](https://github.com/KLenesley/Atedi.2025)
+
 ### IAdventure
 - Langage : PHP.
 - Framework : Symfony.
